@@ -1,0 +1,30 @@
+Asaad Falah & Dyary Yassin
+SE 455
+Prof. Hoger Mahmud 
+Sun/ Oct/ 9/ 2022
+TMT Banking Management System
+Brief Introduction:
+Our program is a Banking system in which the admin can create accounts for their customers and keep track of their balance, the admin can withdraw and deposit money. This program is meant to be used by the admin rather than clients it acts like a database to keep track of the balance of the customers of the bank. It has been implemented by java programming language.
+Dyary Yassin Rahim
+Prof. Yad Tahir 
+10/27/2022
+ITE 306
+Write a small paragraph to explain the use of the 'PATH' variables in Shells running under Linux/Unix systems.
+ A program is being run whenever you enter a command into a Linux terminal. A custom program or script must typically be run by using its complete path, such as /path/to/script.sh. Another way would be by typing a command like echo or date, etc., we may perform several commands without giving routes.
+Because of the $PATH variable, we don't need to give paths for commands that are available inside our path variable. It is possible to modify this variable to instruct our Linux system where to browse for specific programs. Linux will then check the $PATH variable to see a list of folders to choose from when you type a command into the terminal.
+In short Path is an environmental variable which contains a list of all the paths that Linux uses when it wants to search for executables when running a command. The reason why it is useful is as follows  it is good because you can see all your executables in one place and in an ordered way and another reason why it is useful would be that it will allow you to write commands with out the need for the routes and paths of the files parents directories.
+
+Write a small paragraph to explain the use of the 'PATH' variables in Shells running under Linux/Unix systems.
+ A program is being run whenever you enter a command into a Linux terminal. A custom program or script must typically be run by using its complete path, such as /path/to/script.sh. Another way would be by typing a command like echo or date, etc., we may perform several commands without giving routes.
+Because of the $PATH variable, we don't need to give paths for commands that are available inside our path variable. It is possible to modify this variable to instruct our Linux system where to browse for specific programs. Linux will then check the $PATH variable to see a list of folders to choose from when you type a command into the terminal.
+In short Path is an environmental variable which contains a list of all the paths that Linux uses when it wants to search for executables when running a command. The reason why it is useful is as follows  it is good because you can see all your executables in one place and in an ordered way and another reason why it is useful would be that it will allow you to write commands with out the need for the routes and paths of the files parents directories.
+Dyary Yassin Rahim
+Prof. Yad Tahir 
+10/27/2022
+ITE 306
+Write a small paragraph to explain the use of the 'PATH' variables in Shells running under Linux/Unix systems.
+ A program is being run whenever you enter a command into a Linux terminal. A custom program or script must typically be run by using its complete path, such as /path/to/script.sh. Another way would be by typing a command like echo or date, etc., we may perform several commands without giving routes.
+Because of the $PATH variable, we don't need to give paths for commands that are available inside our path variable. It is possible to modify this variable to instruct our Linux system where to browse for specific programs. Linux will then check the $PATH variable to see a list of folders to choose from when you type a command into the terminal.
+In short Path is an environmental variable which contains a list of all the paths that Linux uses when it wants to search for executables when running a command. The reason why it is useful is as follows  it is good because you can see all your executables in one place and in an ordered way and another reason why it is useful would be that it will allow you to write commands with out the need for the routes and paths of the files parents directories.
+
+
